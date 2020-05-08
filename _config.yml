@@ -9,8 +9,7 @@
 title: Welcome to William Wallace's Website!
 email: 16.williamwallace@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- This is a description of my website. Descriptions are so informative, I have no idea what humanity did without them.
- Regardless, William's website is probably going to be used for self-promotion, portfolio projects, and all that good stuff.
+ This is a description of my website. Descriptions are so informative, I have no idea what humanity did without them. Regardless, William's website is probably going to be used for self-promotion, portfolio projects, and all that good stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://williamwallace.co.nz" # the base hostname & protocol for your site
 github_username: walwi878
