@@ -10,6 +10,5 @@ For now, here is a fun fact:
 
 Did you know that the Antarctica's average height above sea level is 2,500m? I learnt that last week.
 
-Also, this: [link][url] https://i.imgur.com/xIolo.gif
-
+Also, [this][url]
 [url]: https://i.imgur.com/xIolo.gif
